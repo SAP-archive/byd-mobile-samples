@@ -1,0 +1,4 @@
+UsageType;TargetNode/TargetObject;TargetElement;Read/WriteAccess;
+BO;AttachmentFolder;;read
+Transformation Definition;Context_GetCurrentIdentityUUID;;read
+Transformation Definition;NumberRange_DrawNumber;;read
