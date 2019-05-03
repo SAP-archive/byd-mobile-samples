@@ -13,12 +13,12 @@ To use the published solution templates you require an installed and licenced ve
 
 ### Download and Installation
 
-⋅⋅*In Repository, Download the "Mobile Bulletin Board Solution Template 1905.zip" file and store it locally. 
-⋅⋅*Logon to the SAP Cloud Application Studio and connect to your tenant. 
-- Create a new Solution based on DU Foundation. 
-- In SAP Cloud Application Studio, open the view "Implementation Manager" and press button "Import Solution Template"
-- Choose the *.zip file you have downlodaed before. 
-  Activate the Solution
+⋅⋅* In Repository, Download the "Mobile Bulletin Board Solution Template 1905.zip" file and store it locally. 
+⋅⋅* Logon to the SAP Cloud Application Studio and connect to your tenant. 
+⋅⋅* Create a new Solution based on DU Foundation. 
+⋅⋅* In SAP Cloud Application Studio, open the view "Implementation Manager" and press button "Import Solution Template"
+⋅⋅* Choose the *.zip file you have downlodaed before. 
+⋅⋅* Activate the Solution
 
 ### Configuration
 No configuration options available
