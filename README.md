@@ -1,6 +1,6 @@
 # sapbydesign-mobile-samples
 
-## H1 Mobile Extensions and AddOn Examples
+## Mobile Extensions and AddOn Examples
 
 ### Description
 
