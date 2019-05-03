@@ -7,6 +7,8 @@
 In Business ByDesign (ByD) Customers and Partners have the possibility to enhance the mobile Apps that are available for the Cloud ERP solution by accessing and extending objects that are exposed via the so called Public Solution Model. For that they will use the tool SAP Cloud Application Studio. 
 This project contains sample code (so called Solution Templates) that consist of mobile demo extensions to act as references for partners.
 
+Use this Sample Code to gather insights on modelling and extension capabilities of the new Business ByDesign Mobile App by using SAP Cloud Application Studio and PDI Environment.
+
 ### Requirements
 
 To use the published solution templates you require an installed and licenced version of the SAP Cloud Application Studio along with partner development access to a SAP Business ByDesign Tenant of Tenant Type 008. The SAP Cloud Application Studio can be downloaded from the SAP Software Download Center: https://support.sap.com/en/my-support/software-downloads.html
