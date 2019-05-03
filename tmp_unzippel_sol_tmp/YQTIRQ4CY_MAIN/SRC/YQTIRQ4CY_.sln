@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# CopernicusIsolatedShell Solution File, Format Version 11.00
+Project("{AC959CD1-5A2C-4306-BE72-259804B01F08}") = "Mobile Bulletin Board Solution Template (In Development)", "YQTIRQ4CY.myproj", "{6B097D6E-454B-423D-838F-87B68605DF32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B097D6E-454B-423D-838F-87B68605DF32}.Debug|x86.ActiveCfg = Debug|x86
+		{6B097D6E-454B-423D-838F-87B68605DF32}.Debug|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

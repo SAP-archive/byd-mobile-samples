@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6b097d6e-454b-423d-838f-87b68605df32}</ProjectGuid>
+    <ProjectType>CopernicusProject</ProjectType>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Name>YQTIRQ4CY</Name>
+    <RootNamespace>YQTIRQ4CY</RootNamespace>
+    <RepositoryNamespace>http://dev.pdi.sap.com/YQTIRQ4CY_</RepositoryNamespace>
+    <RuntimeNamespacePrefix>YQTIRQ4CY_</RuntimeNamespacePrefix>
+    <RepositoryRootFolder>/YQTIRQ4CY_MAIN</RepositoryRootFolder>
+    <DefaultProcessComponent>YQTIRQ4CY_YQTIRQ4CY</DefaultProcessComponent>
+    <DevelopmentPackage>$YQTIRQ4CY_DEV</DevelopmentPackage>
+    <XRepSolution>YQTIRQ4CY_MAIN</XRepSolution>
+    <BCSourceFolderInXRep>/YQTIRQ4CY_BC/SRC</BCSourceFolderInXRep>
+    <ProjectSourceFolderinXRep>/YQTIRQ4CY_MAIN/SRC</ProjectSourceFolderinXRep>
+    <DeploymentUnit>FOUNDATION</DeploymentUnit>
+    <CompilerVersion>1302_FP15</CompilerVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="BulletinBoard.WCF.uiwoc">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="BulletinBoardItem-Root-Event-AfterLoading.absl">
+      <DependentUpon>BulletinBoardItem-Root.node</DependentUpon>
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="BulletinBoardItem-Root-Event-BeforeSave.absl">
+      <DependentUpon>BulletinBoardItem-Root.node</DependentUpon>
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="BulletinBoardItem-Root.node">
+      <DependentUpon>BulletinBoardItem.bo</DependentUpon>
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="BulletinBoardItem.bo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="BulletinBoardItem_OWL.OWL.uicomponent">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="BulletinBoardItem_WCView.WCVIEW.uiwocview">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MBulletinBoardItem_FS.FS.uicomponent">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MBulletinBoardItem_OIF.OIF.uicomponent">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MBulletinBoardItem_OWL.OWL.uicomponent">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MBulletinBoardItem_WCView.WCVIEW.uiwocview">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
