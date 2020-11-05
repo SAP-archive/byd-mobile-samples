@@ -1,4 +1,4 @@
-# sapbydesign-mobile-samples
+# SAP Business ByDesign Mobile Samples
 
 ## Mobile Extensions and Add-on Examples
 
@@ -42,5 +42,4 @@ No external contribution is allowed.
 It is planned to upload an updated version of the solution templates after every release upgrade.
 
 ### License
-Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](LICENSE).
+Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](LICENSE).
