@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
 # SAP Business ByDesign Mobile Samples
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/byd-mobile-samples)](https://api.reuse.software/info/github.com/SAP-samples/byd-mobile-samples)
